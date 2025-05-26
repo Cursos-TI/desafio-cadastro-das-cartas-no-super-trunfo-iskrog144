@@ -127,7 +127,7 @@ int main() {
     printf("População: %d\n", populacao2);
     printf("Área: %s\n", area2_str);
     printf("PIB: %s\n", pib2_str);
-    printf("Número de Pontos Turísticos: %d\n", pontos2);
+    printf("Número de Pontos Turísticos: %d\n\n\n\n", pontos2);
 
     return 0; // Finaliza o programa
 }
